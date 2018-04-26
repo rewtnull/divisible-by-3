@@ -2,4 +2,4 @@ I recently read a TIL on reddit stating the following: "A number is divisible by
 That made me want to prove it in code, so here it is...
 
 Usage:
-  divisible_by_3.sh <int>
+  divisible_by_3.sh \<int\>
